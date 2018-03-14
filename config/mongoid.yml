@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: eventtus
+      hosts:
+        - localhost:27017
